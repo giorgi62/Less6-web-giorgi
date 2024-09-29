@@ -1,0 +1,39 @@
+.first-block{
+    width: 1336px;
+    height: 178px;
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.head-h3{
+    font-family: 'Inter 18pt';
+    font-weight: 600px;
+    font-size: 16px;
+    line-height: 26px;
+    color: #282828;
+}
+.head-h1{
+    margin-top: 4px;
+    margin-bottom: 16px;
+    font-family: 'Inter 18pt';
+    font-weight: 600px;
+    font-size: 54px;
+    line-height: 62px;
+    color: #282828;
+}
+.head-p{
+    margin-top: 4px;
+    font-family: 'Inter 18pt';
+    font-weight: 400px;
+    font-size: 20px;
+    line-height: 35px;
+    color: #5F6980;
+}
+.head-p1{
+    font-family: 'Inter 18pt';
+    font-weight: 400px;
+    font-size: 20px;
+    line-height: 35px;
+    color: #5F6980;
+}
